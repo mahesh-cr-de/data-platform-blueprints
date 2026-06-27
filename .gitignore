@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+# Pipeline outputs (recreated by run_pipeline.py)
+data/bronze/
+data/silver/
+data/gold/
